@@ -6,3 +6,4 @@ app
 output.log
 trace.log
 
+*.save
